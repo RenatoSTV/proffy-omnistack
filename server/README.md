@@ -2,7 +2,7 @@
 
 ## Conexões
 
-- Rota para listar o totla de conexões realizadas;
+- Rota para listar o total de conexões realizadas;
 - Rota para criar uma nova conexão;
 
 ## Aulas
